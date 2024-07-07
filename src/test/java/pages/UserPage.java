@@ -29,6 +29,9 @@ public class UserPage {
     @FindBy(xpath = "//h4[@class='advert-location-title'] ")
     public WebElement advertLocation;
 
+    @FindBy(id = "q")
+    public WebElement searchSpecialBox;
+
     @FindBy(id = "ps")
     public WebElement searchPriceRangeMin;
 
@@ -62,6 +65,9 @@ public class UserPage {
 
     @FindBy(xpath = "//button[@type='submit'] ")
     public WebElement submitATurRequestButton;
+
+
+
 
 
 

@@ -20,7 +20,7 @@ Feature: US07 Manager should be able to post a for sale ad on the page
     And Select number of the "Bedrooms"
     And Select number of the "Bathrooms"
     And Select the "Garage"
-    And Enter a positive value in the "Land Area" field.
+    And Enter a positive value in the "Land Area" field
     And Enter a positive value in the "Year of Build" field
     And Select the "Furniture"
     And Enter the "Swimming Pool"
@@ -83,7 +83,7 @@ Feature: US07 Manager should be able to post a for sale ad on the page
     And Select number of the "Bedrooms"
     And Select number of the "Bathrooms"
     And Select the "Garage"
-    And Enter a positive value in the "Land Area" field.
+    And Enter a positive value in the "Land Area" field
     And Enter a positive value in the "Year of Build" field
     And Select the "Furniture"
     And Enter the "Swimming Pool"
@@ -110,7 +110,7 @@ Feature: US07 Manager should be able to post a for sale ad on the page
     And Select number of the "Bedrooms"
     And Select number of the "Bathrooms"
     And Select the "Garage"
-    And Enter a positive value in the "Land Area" field.
+    And Enter a positive value in the "Land Area" field
     And Enter a positive value in the "Year of Build" field
     And Select the "Furniture"
     And Enter the "Swimming Pool"
@@ -137,7 +137,7 @@ Feature: US07 Manager should be able to post a for sale ad on the page
     And Select number of the "Bedrooms"
     And Select number of the "Bathrooms"
     And Select the "Garage"
-    And Enter a positive value in the "Land Area" field.
+    And Enter a positive value in the "Land Area" field
     And Enter a positive value in the "Year of Build" field
     And Select the "Furniture"
     And Enter the "Swimming Pool"
@@ -164,7 +164,7 @@ Feature: US07 Manager should be able to post a for sale ad on the page
     And Select number of the "Bedrooms"
     And Select number of the "Bathrooms"
     And Select the "Garage"
-    And Enter a positive value in the "Land Area" field.
+    And Enter a positive value in the "Land Area" field
     And Enter a positive value in the "Year of Build" field
     And Select the "Furniture"
     And Enter the "Swimming Pool"
